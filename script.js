@@ -439,7 +439,9 @@ document.addEventListener('DOMContentLoaded', function(e){
 
 window.addEventListener('load', function(e){
   console.log('Page loaded', e);
-});
+}
+)
+;
 
 // window.addEventListener('beforeunload', e => {
 //   e.preventDefault();
